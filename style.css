@@ -5,3 +5,21 @@ header {
 background-color: 385D58;
 color: white;
 }
+.cabeçalho-imagem{
+
+    width: 10%;
+}
+.cabeçalho {
+    background-color: #385D58;
+    color: white;
+    display:flex;
+
+    justify-content: space-around;
+
+}
+.cabeçalho-lista-item{
+    display: inline-block;
+    margin: 0 16px;
+    justify-content: space-around;
+    padding: 24px 0;
+}
